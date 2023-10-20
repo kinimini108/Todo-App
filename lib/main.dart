@@ -2,7 +2,7 @@
 // ignore_for_file: unused_local_variable
 
 import 'package:flutter/material.dart';
-import 'package:todo_app/Examples/home_todo.dart';
+import 'package:todo_app/components/home_todo.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
 void main() async {

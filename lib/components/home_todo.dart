@@ -3,8 +3,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:todo_app/Examples/util/dialog_box.dart';
-import 'package:todo_app/Examples/util/todo_tile.dart';
+import 'package:todo_app/components/util/dialog_box.dart';
+import 'package:todo_app/components/util/todo_tile.dart';
 import 'package:todo_app/data/todo_data.dart';
 
 class HomeTodo extends StatefulWidget {
