@@ -1,2 +1,3 @@
 # Todo-App
-Simple Flutter Todo App
+
+A Simple Flutter project.
